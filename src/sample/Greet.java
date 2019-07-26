@@ -11,7 +11,7 @@ public class Greet {
 	public void setName(String name) {
 		this.name = name;
 	}
-	System.out.println("Hola, amigo "+ g.getName());
+	
 
 	
 
